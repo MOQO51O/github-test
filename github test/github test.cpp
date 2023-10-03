@@ -6,7 +6,8 @@
 int main()
 {
     std::cout << "Hello World!\n";
-    std::cout << "昨日、diablo2をクリアしました。";
+    std::cout << "昨日、diablo2をクリアしました。\n";
+    std::cout << "昨日はow2でプラチナ1に行きました\n"
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
